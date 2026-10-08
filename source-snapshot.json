@@ -1,0 +1,54 @@
+{
+  "name": "side-quest-me",
+  "production_url": "https://side-quest-me.knightatha.chatgpt.site",
+  "production_version": "Sites v1",
+  "public_project_identifier": "appgprj_6ac738069850819196c50918d4162722",
+  "original_source_commit": "0a921932762f2c5ab87a090b445798fb2d380d92",
+  "original_files": [
+    {
+      "path": "dist/app.mjs",
+      "sha256": "5dd14757d39f12e7b35ef70d86feae5cbb39c536d1beb5bef26d10b3a8909a1a",
+      "size": 12468
+    },
+    {
+      "path": "dist/card.mjs",
+      "sha256": "a7e0aeb491793acb4e34a8ca0986b085364fdc61be0cbac695f01094bb895b89",
+      "size": 3469
+    },
+    {
+      "path": "dist/characters.png",
+      "sha256": "b2d92ac41ebd0fa30e2608738ba513c3fed412d8e24811281d4ec2b79bf69abc",
+      "size": 2573463
+    },
+    {
+      "path": "dist/index.html",
+      "sha256": "0f42e643c1039f03a34c419f20775b4319b2f5b12f9ec0943dd2fa1c3f240ccf",
+      "size": 1788
+    },
+    {
+      "path": "dist/quiz.mjs",
+      "sha256": "ddb6c1e34c1cff1b6b610dcb678091726cbfad1503f3905a64bd4924d3ccc925",
+      "size": 8349
+    },
+    {
+      "path": "dist/style.css",
+      "sha256": "c38db85adc5af9c7ce7e38c27e629ac27b51d1f8f14e01928abad9429834d409",
+      "size": 10007
+    },
+    {
+      "path": ".openai/hosting.json",
+      "sha256": "812884696b48aae0cf76e4ed7cad7f60cde01d1679702baac845820078c48b12",
+      "size": 106
+    },
+    {
+      "path": "qa.mjs",
+      "sha256": "e794324992932855df6054bb2d2f830ea0ec3d23d569de85bdc0b6c406344120",
+      "size": 1825
+    },
+    {
+      "path": "qa-dom.mjs",
+      "sha256": "ac5ae113f4487768813c3ad79b7d0a82d6b18f9988accc218b38cf17865833f0",
+      "size": 7770
+    }
+  ]
+}
